@@ -1,4 +1,7 @@
- 
+ body{
+    background-image: url('../img/pink.jpg');
+ }
+
 * {
     margin: 0;
     padding: 0;
@@ -25,7 +28,7 @@
     justify-content: space-around;
     align-items: center;
     font-family: system-ui, -apple-system, Helvetica, Arial, sans-serif;
-    background: #59146e;
+    background: #692053;
     height: 8vh;
   }
   
@@ -68,7 +71,7 @@
       right: 0;
       width: 30vw;
       height: 42vh;
-      background: #703672;
+      background: #301731;
       flex-direction: column;
       align-items: center;
       justify-content: space-around;
